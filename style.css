@@ -2,4 +2,6 @@
     width: 200px;
     background-color: #667;
     text-align: center;
+    display: flex;
+    justify-content: center;
 }
