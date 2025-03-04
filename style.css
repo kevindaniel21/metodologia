@@ -2,8 +2,9 @@ body{
     display: flex;
 }
 .container{
-    width: 200px;
-    background-color: #667;
+    width: 500px;
+    background-color: #111;
     text-align: center;
     justify-content: center;
+    color: #fff;
 }
